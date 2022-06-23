@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Profile-website.github.io/static/css/main.46e4eb22.css",
+    "main.js": "/React-Profile-website.github.io/static/js/main.b9bc18aa.js",
+    "static/media/me-about.jpg": "/React-Profile-website.github.io/static/media/me-about.12ec71faa04867db3e31.jpg",
+    "static/media/portfolio5.png": "/React-Profile-website.github.io/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/me.png": "/React-Profile-website.github.io/static/media/me.efd028d533b526909571.png",
+    "static/media/portfolio2.jpg": "/React-Profile-website.github.io/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/React-Profile-website.github.io/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/React-Profile-website.github.io/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/React-Profile-website.github.io/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/React-Profile-website.github.io/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/cv.pdf": "/React-Profile-website.github.io/static/media/cv.888e40decf3145f8b271.pdf",
+    "index.html": "/React-Profile-website.github.io/index.html",
+    "main.46e4eb22.css.map": "/React-Profile-website.github.io/static/css/main.46e4eb22.css.map",
+    "main.b9bc18aa.js.map": "/React-Profile-website.github.io/static/js/main.b9bc18aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46e4eb22.css",
+    "static/js/main.b9bc18aa.js"
+  ]
+}
