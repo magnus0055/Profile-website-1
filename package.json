@@ -1,6 +1,7 @@
 {
+  "homepage": "https://magnus0055.github.io/React-Profile-website.github.io",
   "name": "react-portfolio-website-1",
-  "homepage":"http://satyamKsinghProfileWebsite.com",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,6 +18,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
